@@ -8,7 +8,7 @@
 - ⚙️ Utilizo a diario: `.jsx`, `.js`, `.html`, `.css`, `.ts`, `.psd`, `.md`
 - 🌍 Me encuentro muy activo en [Basic4Androides](https://facebook.com/groups/basic4androides)
 - 💅 Mis diseños: [@trejocode](https://www.instagram.com/trejocode)
-- 🌱 Aprendo aún más de **Accesibilidad Web**
+- 🌱 Aprendo más de **Accesibilidad Web**
 - 💬 Hablame de: **Diseño Web**, **Accesibilidad Web**, **React**, **Aprendizaje para todos**
 - 📫 Escribeme [trejocode](https://www.messenger.com/t/664372843657624)
 - ⚡️ Datico curioso: Me gusta mucho jugar Halo 5
