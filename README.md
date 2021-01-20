@@ -4,7 +4,7 @@
 
 #### Trabajo como Desarrollador Frontend Semi Sr, desde Cancún, México 🏖️.
 
-- 🏢 Me encuentro trabajando en **Grupo Jako**
+- 🏢 Me encuentro trabajando en **Woonkly**
 - ⚙️ Utilizo a diario: `.jsx`, `.js`, `.html`, `.css`, `.ts`, `.psd`, `.md`
 - 🌍 Me encuentro muy activo en [Basic4Androides](https://facebook.com/groups/basic4androides)
 - 💅 Mis diseños: [@trejocode](https://www.instagram.com/trejocode)
