@@ -2,7 +2,7 @@
 
 ## Hola 👋
 
-#### Trabajo como Desarrollador Frontend Semi Sr, desde Cancún, México 🏖️.
+#### Trabajo como Desarrollador Frontend Sr, desde Cancún, México 🏖️.
 
 - 🏢 Me encuentro trabajando en **Woonkly**
 - ⚙️ Utilizo a diario: `.jsx`, `.js`, `.html`, `.css`, `.ts`, `.psd`, `.md`
