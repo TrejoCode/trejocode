@@ -2,11 +2,12 @@
 
 ## Hola 👋
 
-#### Trabajo como Desarrollador Frontend/Apps Sr, desde Cancún, México 🏖️.
+#### Web/Mobile Developer Sr, desde Cancún, México 🏖️.
 
 - 🏢 Me encuentro trabajando en **Traxión** y **Geest**
 - ⚙️ Utilizo a diario: `.jsx`, `.js`, `.html`, `.css`, `.ts`, `.psd`, `.md`
 - 📚 ¿Quieres aprender desarrollo Web y de aplicaciones? [Mentorías personalizadas](https://www.superprof.mx/programacion-desarrollo-web-aplicaciones-html-css-javascript-react-react-native-node-frontend-backend-desde.html)
+- 📄 Conoce todos mis proyectos: [Portafolio y servicios](https://trejocode.com/)
 - 🌍 Me encuentro muy activo en [Basic4Androides](https://facebook.com/groups/basic4androides)
 - 💅 Mis diseños: [@trejocode](https://www.instagram.com/trejocode)
 - 🌱 Aprendo más de **Accesibilidad Web**
